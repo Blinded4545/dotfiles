@@ -1,0 +1,65 @@
+// ~/.config/fastfetch/config.jsonc
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "logo": {
+    "source": "~/.config/fastfetch/logos/eva01.png",
+    "type": "kitty-direct",
+    "width": 24,
+    "height": 15
+  },
+  "modules": [
+    "break",
+    {
+      "type": "title",
+      "color": {
+        "host": "dim_white",
+        "at": "dim_white",
+        "user": "cyan"
+      },
+      "keyColor": "cyan",
+      "format": "{6}"
+    },
+    "separator",
+    {
+      "type": "os",
+      "keyColor": "blue",
+      "format": "{2}"
+    },
+    {
+      "type": "wm",
+      "keyColor": "blue",
+      "format": "{1}"
+    },
+    {
+      "type": "battery",
+      "keyColor": "blue"
+    },
+    {
+      "type": "shell",
+      "keyColor": "blue",
+      "format": "zsh"
+    },
+    {
+      "type": "localip",
+      "keyColor": "blue"
+    },
+    {
+      "type": "media",
+      "keyColor": "blue"
+    },
+    {
+      "type": "memory",
+      "keyColor": "blue"
+    },
+    {
+      "type": "bluetooth",
+      "keyColor": "blue"
+    },
+    {
+      "type": "colors",
+      "symbol": "circle"
+    },
+    "break",
+    "break"
+  ]
+}

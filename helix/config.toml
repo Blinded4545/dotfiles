@@ -1,0 +1,21 @@
+theme = "base16_transparent"
+
+
+[editor]
+auto-save=true
+completion-timeout=5
+bufferline="multiple"
+
+[editor.cursor-shape]
+insert="bar"
+
+[editor.soft-wrap]
+enable=true
+
+[keys.normal]
+space.q = ":write-all"
+space.w.q= [":write-all", ":quit-all"]
+S-m = ":bn"
+S-n = ":bp"
+S-c = ":wbc"
+C-g = [":new", ":insert-output lazygit", ":buffer-close!", ":redraw"]
