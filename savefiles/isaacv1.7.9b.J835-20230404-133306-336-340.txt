@@ -1,0 +1,427 @@
+[INFO] - timeBeginPeriod( 1 )
+[INFO] - OpenGL version 4.6 (Compatibility Profile) Mesa 23.0.1
+[INFO] - GLSL version 4.60
+[INFO] - Framebuffer ID: 1
+[INFO] - Renderbuffer ID: 1 size 1024x1024
+[INFO] - Initializing theoraplayer with theora support.
+[INFO] - Initializing Theoraplayer Video Playback Library (2.0)
+  - libtheora version: Xiph.Org libtheora 1.2.0alpha 20100924 (Ptalarbvorm)
+  - libvorbis version: Xiph.Org libVorbis 1.3.4
+------------------------------------
+[INFO] - Changing number of worker threads to: 1
+[INFO] - Successfully reserved 1073741824 bytes of memory for Lua
+[INFO] - Running Lua Script: resources/scripts/enums.lua
+[INFO] - Lua mem usage: 743 KB and 126 bytes
+[INFO] - Running Lua Script: resources/scripts/main.lua
+[INFO] - Lua mem usage: 801 KB and 357 bytes
+[INFO] - Binding of Isaac: Repentance v1.7.9b.J835
+[INFO] - load archives: 5989 milliseconds
+[INFO] - Initialize ColorOffset Shader
+[INFO] - Initialize Pixelation Shader
+[INFO] - Initialize Bloom Shader
+[INFO] - Initialize Color Correction Shader
+[INFO] - Initialize HQ4X Shader
+[INFO] - Initialize Shockwave Shader
+[INFO] - Initialize OldTV Shader
+[INFO] - Initialize Water Surface Shader
+[INFO] - Initialize Water Surface V2 Shader
+[INFO] - Initialize Hallucination Shader
+[INFO] - Initialize Colormod Shader
+[INFO] - Initialize Color Offset Champion Shader
+[INFO] - Initialize Background Shader
+[INFO] - Initialize Water Overlay Shader
+[INFO] - Initialize Color Offset Dogma Shader
+[INFO] - Initialize Color Offset Gold Shader
+[INFO] - Initialize Dizzy Shader
+[INFO] - Initialize Heat Wave Shader
+[INFO] - Initialize Mirror Shader
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Viewport: 960x540
+[INFO] - Framebuffer Width: 960 
+ Render Width: 960 
+ Window Width: 960 
+ Multiplier: 2.250010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+[INFO] - Viewport: 1365x768
+[INFO] - Framebuffer Width: 1366 
+ Render Width: 910 
+ Window Width: 1366 
+ Multiplier: 3.200010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+[INFO] - begin list mods
+[INFO] - HQX4 size: 910x512
+[INFO] - Viewport: 1365x768
+[INFO] - Framebuffer Width: 1366 
+ Render Width: 910 
+ Window Width: 1366 
+ Multiplier: 3.200010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+[INFO] - playing cutscene 1 (Intro).
+[INFO] - Renderbuffer ID: 2 size 2048x1024
+[INFO] - HQX4 size: 1366x768
+[INFO] - Viewport: 1365x768
+[INFO] - Framebuffer Width: 1366 
+ Render Width: 910 
+ Window Width: 1366 
+ Multiplier: 3.200010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+[INFO] - HQX4 size: 910x512
+[INFO] - Menu Manager preCrossfade
+[INFO] - Menu Manager Init
+[INFO] - Menu Title Init
+[INFO] - Menu Save Init
+[INFO] - Menu_Save Pre Prompt init
+[INFO] - Menu_Save loading slot drawings
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Loading PersistentData 1 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Reading chunk 1
+[INFO] - Reading Achievements
+[INFO] - Done Reading Achievements
+[INFO] - Reading chunk 2
+[INFO] - Reading Counters
+[INFO] - Done Reading Counters
+[INFO] - Reading chunk 3
+[INFO] - Reading Level Counters
+[INFO] - Done Reading Level Counters
+[INFO] - Reading chunk 4
+[INFO] - Reading Collectibles
+[INFO] - Done Reading Collectibles
+[INFO] - Reading chunk 5
+[INFO] - Reading Mini Bosses
+[INFO] - Done Reading Mini Bosses
+[INFO] - Reading chunk 6
+[INFO] - Reading Bosses
+[INFO] - Done Reading Bosses
+[INFO] - Reading chunk 7
+[INFO] - Reading Challenge Counters
+[INFO] - Done Reading Challenge Counters
+[INFO] - Reading chunk 8
+[INFO] - Reading Cutscene Counters
+[INFO] - Done Reading Cutscene Counters
+[INFO] - Reading chunk 9
+[INFO] - Reading GameSettings
+[INFO] - Done Reading GameSettings
+[INFO] - Reading chunk 10
+[INFO] - Reading Special Seed Counters
+[INFO] - Done Reading Special Seed Counters
+[INFO] - Reading chunk 11
+[INFO] - Reading Bestiary Counters
+[INFO] - Done Reading Bestiary Counters
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Loading GameState 1 from SteamCloud!
+[INFO] - GameState Version Loaded: 146
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Loading PersistentData 2 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: rep_persistentgamedata2.dat.
+[INFO] - Reading chunk 1
+[INFO] - Reading Achievements
+[INFO] - Done Reading Achievements
+[INFO] - Reading chunk 2
+[INFO] - Reading Counters
+[INFO] - Done Reading Counters
+[INFO] - Reading chunk 3
+[INFO] - Reading Level Counters
+[INFO] - Done Reading Level Counters
+[INFO] - Reading chunk 4
+[INFO] - Reading Collectibles
+[INFO] - Done Reading Collectibles
+[INFO] - Reading chunk 5
+[INFO] - Reading Mini Bosses
+[INFO] - Done Reading Mini Bosses
+[INFO] - Reading chunk 6
+[INFO] - Reading Bosses
+[INFO] - Done Reading Bosses
+[INFO] - Reading chunk 7
+[INFO] - Reading Challenge Counters
+[INFO] - Done Reading Challenge Counters
+[INFO] - Reading chunk 8
+[INFO] - Reading Cutscene Counters
+[INFO] - Done Reading Cutscene Counters
+[INFO] - Reading chunk 9
+[INFO] - Reading GameSettings
+[INFO] - Done Reading GameSettings
+[INFO] - Reading chunk 10
+[INFO] - Reading Special Seed Counters
+[INFO] - Done Reading Special Seed Counters
+[INFO] - Reading chunk 11
+[INFO] - Reading Bestiary Counters
+[INFO] - Done Reading Bestiary Counters
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata2.dat.
+[INFO] - Loading GameState 2 from SteamCloud!
+[INFO] - SteamCloud could not find or open rep_gamestate2.dat. No Game State detected.
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Loading PersistentData 3 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: rep_persistentgamedata3.dat.
+[INFO] - SteamCloud could not find or open rep_persistentgamedata3.dat.
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Trying to import AB+ Steam save.
+[INFO] - SteamCloud could not find or open AB+ save file abp_persistentgamedata3.dat.
+[INFO] - SteamCloud could not find or open AB save file ab_persistentgamedata3.dat.
+[INFO] - Starting with a clean save state.
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Cannot load GameState if PersistentData is missing!
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Menu Game Init
+[INFO] - Menu Daily Init
+[INFO] - Menu Character Init
+[INFO] - Menu SpecialSeed Init
+[INFO] - Menu Challenge Init
+[INFO] - Menu Collection Init
+[INFO] - Menu Stats Init
+[INFO] - Menu Mods Init
+[INFO] - Menu Options Init
+[INFO] - Menu Controller Init
+[INFO] - Menu Key Config Init
+[INFO] - Menu Cutscene Init
+[INFO] - Menu Bestiary Init
+[INFO] - Menu Custom Challenge Init
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Loading PersistentData 1 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Reading chunk 1
+[INFO] - Reading Achievements
+[INFO] - Done Reading Achievements
+[INFO] - Reading chunk 2
+[INFO] - Reading Counters
+[INFO] - Done Reading Counters
+[INFO] - Reading chunk 3
+[INFO] - Reading Level Counters
+[INFO] - Done Reading Level Counters
+[INFO] - Reading chunk 4
+[INFO] - Reading Collectibles
+[INFO] - Done Reading Collectibles
+[INFO] - Reading chunk 5
+[INFO] - Reading Mini Bosses
+[INFO] - Done Reading Mini Bosses
+[INFO] - Reading chunk 6
+[INFO] - Reading Bosses
+[INFO] - Done Reading Bosses
+[INFO] - Reading chunk 7
+[INFO] - Reading Challenge Counters
+[INFO] - Done Reading Challenge Counters
+[INFO] - Reading chunk 8
+[INFO] - Reading Cutscene Counters
+[INFO] - Done Reading Cutscene Counters
+[INFO] - Reading chunk 9
+[INFO] - Reading GameSettings
+[INFO] - Done Reading GameSettings
+[INFO] - Reading chunk 10
+[INFO] - Reading Special Seed Counters
+[INFO] - Done Reading Special Seed Counters
+[INFO] - Reading chunk 11
+[INFO] - Reading Bestiary Counters
+[INFO] - Done Reading Bestiary Counters
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Loading GameState 1 from SteamCloud!
+[INFO] - GameState Version Loaded: 146
+[INFO] - Initialized player with Variant 0 and Subtype 6
+[INFO] - Preload sound 0.
+[INFO] - RNG Start Seed: TLJC LT9S (2239716026) [Continue, 1]
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - delete 0 generated rooms.
+[INFO] - [RoomConfig] load stage 0: Special Rooms (mode 0)
+[INFO] - allocate 1300 rooms.
+[INFO] - [RoomConfig] load stage 4: Caves (mode 0)
+[INFO] - allocate 1111 rooms.
+[INFO] - [RoomConfig] load stage 13: ??? (mode 0)
+[INFO] - allocate 30 rooms.
+[INFO] - Room 1.2(Start Room)
+[INFO] - SpawnRNG seed: 149227820
+[INFO] - Lua mem usage: 801 KB and 201 bytes
+[INFO] - music stopped playing
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Room 1.970(New Room)
+[INFO] - SpawnRNG seed: 2318228624
+[INFO] - Spawn Entity with Type(288), Variant(0), Pos(400.00,360.00)
+[INFO] - Spawn Entity with Type(881), Variant(0), Pos(240.00,400.00)
+[INFO] - Spawn Entity with Type(881), Variant(0), Pos(400.00,400.00)
+[INFO] - Spawn Entity with Type(288), Variant(0), Pos(240.00,480.00)
+[INFO] - Lua mem usage: 801 KB and 201 bytes
+[INFO] - Queued Path music/The Caves Layer.ogg
+[INFO] - Queued Path music/The Caves.ogg
+[INFO] - Room 1.155()
+[INFO] - SpawnRNG seed: 3533052027
+[INFO] - Spawn Entity with Type(6), Variant(4), Pos(320.00,280.00)
+[INFO] - Lua mem usage: 801 KB and 201 bytes
+[INFO] - Room 1.572(New Room)
+[INFO] - SpawnRNG seed: 1583239817
+[INFO] - Spawn Entity with Type(288), Variant(0), Pos(80.00,160.00)
+[INFO] - Spawn Entity with Type(288), Variant(0), Pos(560.00,160.00)
+[INFO] - Lua mem usage: 801 KB and 201 bytes
+[INFO] - Total entity spawn time: 780 ms
+[INFO] - Total ANM2 loading time: 293 ms
+[INFO] - AnmCache memory usage: 2199496 bytes in 122 entries.
+[INFO] - Room 1.155()
+[INFO] - SpawnRNG seed: 3533052027
+[INFO] - Lua mem usage: 801 KB and 201 bytes
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Room 1.572(New Room)
+[INFO] - SpawnRNG seed: 1583239817
+[INFO] - Lua mem usage: 801 KB and 201 bytes
+[INFO] - Room 1.924(New Room)
+[INFO] - SpawnRNG seed: 1125571949
+[INFO] - Spawn Entity with Type(868), Variant(0), Pos(200.00,360.00)
+[INFO] - Spawn Entity with Type(868), Variant(0), Pos(240.00,360.00)
+[INFO] - Spawn Entity with Type(868), Variant(0), Pos(280.00,360.00)
+[INFO] - Spawn Entity with Type(868), Variant(0), Pos(320.00,360.00)
+[INFO] - Spawn Entity with Type(868), Variant(0), Pos(360.00,360.00)
+[INFO] - Spawn Entity with Type(868), Variant(0), Pos(400.00,360.00)
+[INFO] - Spawn Entity with Type(868), Variant(0), Pos(440.00,360.00)
+[INFO] - Lua mem usage: 801 KB and 201 bytes
+[INFO] - Room 1.106()
+[INFO] - SpawnRNG seed: 2450153897
+[INFO] - Spawn Entity with Type(24), Variant(1), Pos(280.00,280.00)
+[INFO] - Spawn Entity with Type(24), Variant(1), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(24), Variant(1), Pos(360.00,280.00)
+[INFO] - Lua mem usage: 801 KB and 201 bytes
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Room 7.15( (copy))
+[INFO] - SpawnRNG seed: 3452673681
+[INFO] - Spawn Entity with Type(17), Variant(0), Pos(320.00,200.00)
+[INFO] - Spawn Entity with Type(5), Variant(40), Pos(320.00,280.00)
+[INFO] - Lua mem usage: 801 KB and 201 bytes
+[INFO] - music stopped playing
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Room 1.892(New Room (copy))
+[INFO] - SpawnRNG seed: 3427758133
+[INFO] - Spawn Entity with Type(15), Variant(1), Pos(120.00,200.00)
+[INFO] - Spawn Entity with Type(27), Variant(0), Pos(520.00,200.00)
+[INFO] - Spawn Entity with Type(27), Variant(0), Pos(200.00,280.00)
+[INFO] - Spawn Entity with Type(15), Variant(1), Pos(120.00,360.00)
+[INFO] - Spawn Entity with Type(27), Variant(0), Pos(520.00,360.00)
+[INFO] - Lua mem usage: 801 KB and 201 bytes
+[INFO] - Queued Path music/The Caves Layer.ogg
+[INFO] - Queued Path music/The Caves.ogg
+[INFO] - Room 6.2042(Greed 3)
+[INFO] - SpawnRNG seed: 2706042478
+[INFO] - Spawn Entity with Type(50), Variant(0), Pos(320.00,280.00)
+[INFO] - Lua mem usage: 801 KB and 201 bytes
+[INFO] - Total entity spawn time: 1435 ms
+[INFO] - Total ANM2 loading time: 411 ms
+[INFO] - AnmCache memory usage: 2524036 bytes in 144 entries.
+[INFO] - TriggerBossDeath: 0 bosses remaining.
+[INFO] - MiniBoss 4 added to SaveState
+[INFO] - item taken without exchange
+[INFO] - item queue flush
+[INFO] - Adding collectible 64 (Steam Sale) to player 0 (Samson)
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Room 1.892(New Room (copy))
+[INFO] - SpawnRNG seed: 3427758133
+[INFO] - Lua mem usage: 801 KB and 201 bytes
+[INFO] - music stopped playing
+[INFO] - Queued Path music/The Caves Layer.ogg
+[INFO] - Queued Path music/The Caves.ogg
+[INFO] - Room 7.15( (copy))
+[INFO] - SpawnRNG seed: 3452673681
+[INFO] - Lua mem usage: 801 KB and 201 bytes
+[INFO] - Room 1.106()
+[INFO] - SpawnRNG seed: 2450153897
+[INFO] - Lua mem usage: 801 KB and 201 bytes
+[INFO] - Total entity spawn time: 1550 ms
+[INFO] - Total ANM2 loading time: 436 ms
+[INFO] - AnmCache memory usage: 2556608 bytes in 148 entries.
+[INFO] - Queued Path music/The Caves Layer.ogg
+[INFO] - Queued Path music/The Caves.ogg
+[INFO] - Room 1.924(New Room)
+[INFO] - SpawnRNG seed: 1125571949
+[INFO] - Lua mem usage: 801 KB and 201 bytes
+[INFO] - Room 1.572(New Room)
+[INFO] - SpawnRNG seed: 1583239817
+[INFO] - Lua mem usage: 801 KB and 201 bytes
+[INFO] - Room 1.160()
+[INFO] - SpawnRNG seed: 3194360782
+[INFO] - Spawn Entity with Type(15), Variant(1), Pos(200.00,280.00)
+[INFO] - Spawn Entity with Type(15), Variant(1), Pos(280.00,280.00)
+[INFO] - Spawn Entity with Type(15), Variant(1), Pos(360.00,280.00)
+[INFO] - Spawn Entity with Type(15), Variant(1), Pos(440.00,280.00)
+[INFO] - Lua mem usage: 801 KB and 201 bytes
+[INFO] - Room 1.572(New Room)
+[INFO] - SpawnRNG seed: 1583239817
+[INFO] - Lua mem usage: 801 KB and 201 bytes
+[INFO] - Room 1.924(New Room)
+[INFO] - SpawnRNG seed: 1125571949
+[INFO] - Lua mem usage: 801 KB and 201 bytes
+[INFO] - Room 1.165()
+[INFO] - SpawnRNG seed: 2875205357
+[INFO] - Spawn Entity with Type(80), Variant(0), Pos(280.00,240.00)
+[INFO] - Spawn Entity with Type(80), Variant(0), Pos(360.00,240.00)
+[INFO] - Spawn Entity with Type(18), Variant(0), Pos(200.00,280.00)
+[INFO] - Spawn Entity with Type(18), Variant(0), Pos(240.00,280.00)
+[INFO] - Spawn Entity with Type(22), Variant(0), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(18), Variant(0), Pos(400.00,280.00)
+[INFO] - Spawn Entity with Type(18), Variant(0), Pos(440.00,280.00)
+[INFO] - Spawn Entity with Type(80), Variant(0), Pos(280.00,320.00)
+[INFO] - Spawn Entity with Type(80), Variant(0), Pos(360.00,320.00)
+[INFO] - Lua mem usage: 801 KB and 201 bytes
+[INFO] - Total entity spawn time: 1816 ms
+[INFO] - Total ANM2 loading time: 463 ms
+[INFO] - AnmCache memory usage: 2584408 bytes in 153 entries.
+[INFO] - Room 1.948(New Room)
+[INFO] - SpawnRNG seed: 620019414
+[INFO] - Spawn Entity with Type(5), Variant(0), Pos(80.00,280.00)
+[INFO] - Spawn Entity with Type(61), Variant(5), Pos(120.00,280.00)
+[INFO] - Spawn Entity with Type(61), Variant(5), Pos(520.00,280.00)
+[INFO] - Spawn Entity with Type(5), Variant(0), Pos(560.00,280.00)
+[INFO] - Lua mem usage: 801 KB and 201 bytes
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Room 1.149()
+[INFO] - SpawnRNG seed: 279536738
+[INFO] - Spawn Entity with Type(5), Variant(70), Pos(200.00,280.00)
+[INFO] - Lua mem usage: 801 KB and 201 bytes
+[INFO] - Room 1.948(New Room)
+[INFO] - SpawnRNG seed: 620019414
+[INFO] - Lua mem usage: 801 KB and 201 bytes
+[INFO] - Room 1.165()
+[INFO] - SpawnRNG seed: 2875205357
+[INFO] - Lua mem usage: 801 KB and 201 bytes
+[INFO] - Room 1.5()
+[INFO] - SpawnRNG seed: 3359746953
+[INFO] - Spawn Entity with Type(21), Variant(0), Pos(240.00,240.00)
+[INFO] - Spawn Entity with Type(21), Variant(0), Pos(400.00,240.00)
+[INFO] - Spawn Entity with Type(21), Variant(0), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(21), Variant(0), Pos(240.00,320.00)
+[INFO] - Spawn Entity with Type(21), Variant(0), Pos(400.00,320.00)
+[INFO] - Lua mem usage: 801 KB and 201 bytes
+[INFO] - Room 1.165()
+[INFO] - SpawnRNG seed: 2875205357
+[INFO] - Lua mem usage: 801 KB and 201 bytes
+[INFO] - Room 1.948(New Room)
+[INFO] - SpawnRNG seed: 620019414
+[INFO] - Lua mem usage: 801 KB and 201 bytes
+[INFO] - Room 1.149()
+[INFO] - SpawnRNG seed: 279536738
+[INFO] - Lua mem usage: 801 KB and 201 bytes
+[INFO] - Action PillCard Triggered
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Room 1.19()
+[INFO] - SpawnRNG seed: 742682679
+[INFO] - Spawn Entity with Type(23), Variant(0), Pos(120.00,200.00)
+[INFO] - Spawn Entity with Type(23), Variant(0), Pos(360.00,240.00)
+[INFO] - Spawn Entity with Type(27), Variant(1), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(23), Variant(0), Pos(280.00,320.00)
+[INFO] - Spawn Entity with Type(23), Variant(0), Pos(520.00,360.00)
+[INFO] - Lua mem usage: 801 KB and 201 bytes
+[INFO] - Total entity spawn time: 2205 ms
+[INFO] - Total ANM2 loading time: 484 ms
+[INFO] - AnmCache memory usage: 2676476 bytes in 161 entries.
+[INFO] - Room 1.491(New Room)
+[INFO] - SpawnRNG seed: 534361006
+[INFO] - Spawn Entity with Type(202), Variant(0), Pos(240.00,200.00)
+[INFO] - Spawn Entity with Type(202), Variant(0), Pos(240.00,240.00)
+[INFO] - Spawn Entity with Type(202), Variant(0), Pos(240.00,320.00)
+[INFO] - Spawn Entity with Type(202), Variant(0), Pos(240.00,360.00)
+[INFO] - Lua mem usage: 801 KB and 201 bytes
+[INFO] - Room 5.1066(Gurdy (copy))
+[INFO] - SpawnRNG seed: 3256090725
+[INFO] - Spawn Entity with Type(36), Variant(0), Pos(320.00,240.00)
+[INFO] - Lua mem usage: 801 KB and 201 bytes
+[INFO] - TriggerBossDeath: 0 bosses remaining.
+[INFO] - deathspawn_boss, color idx -1
+[INFO] - Boss 4 added to SaveState
+[INFO] - Lua stack trace:
+[INFO] - Caught exception, writing minidump...
